@@ -1,2 +1,3 @@
 # hello-world
-Aprendendo sobre o github
+Olá!
+Meu nome é Vinicius e sou estudante de engenharia de redes de comunicação na Universidade de Brasília
