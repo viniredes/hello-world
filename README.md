@@ -1,2 +1,3 @@
 # hello-world
-Aprendendo sobre o github
+Olá!
+Meu nome é Vinicius e estou estudando engenharia de redes
